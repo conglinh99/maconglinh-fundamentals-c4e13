@@ -1,5 +1,4 @@
 print("Hello, I'm mr. moody")
-while 
 from random import randint
 n = randint(1, 100)
 if n < 30:

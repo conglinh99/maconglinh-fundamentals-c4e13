@@ -1,0 +1,31 @@
+1. A Boolean value is either true or false.
+*For example:
+
+>>> a = 5
+>>> b = 6
+>>> a == b 
+False
+
+>>> 1 == 2
+False
+
+>>> x = "Hello"
+>>> x + "world" == "Hello world"
+True
+
+2. Flowchart is a type of diagram that represents an algorithm, workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows.
+
+
+3. Nested conditionals mean that you can use one if or elif statement inside another if or else if statement(s).
+*For example:
+a = input("What's your username?")
+
+while True:
+	if a.upper() == "C4E":
+		b = input("What's is your password?")
+		if b == "codethechange"
+			print("You're superuser")
+		else:
+			print("Your password is incorrect!")
+	else:
+		print("Not superuser")

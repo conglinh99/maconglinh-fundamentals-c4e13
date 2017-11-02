@@ -6,6 +6,6 @@ while True:
         if b == "codethechange"
             print("You're superuser")
         else:
-            print("incorrect")
+            print("Your password is incorrect")
     else:
         print("Not superuser")
