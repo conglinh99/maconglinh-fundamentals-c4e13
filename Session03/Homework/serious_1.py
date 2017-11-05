@@ -27,3 +27,6 @@ while True:
             print(*our_items, sep=", ")
         else:
             print("Out of the index!")
+    else:
+        print("Out of the selection!")
+        break
