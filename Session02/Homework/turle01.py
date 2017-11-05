@@ -13,6 +13,4 @@ for i in range(4):
     forward(100)
     right(150)
 
-left(150)
-
 mainloop()
